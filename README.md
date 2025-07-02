@@ -35,7 +35,7 @@ Welcome to **Pavazon**, a sleek and responsive e-commerce frontend built with **
 
 ## 🧑‍💻 Developer
 
-Made with ❤️ by [Pavan](https://github.com/Paidi_Pavan_Kumar)
+Made with ❤️ by [Pavan](https://github.com/Paidi-Pavan-Kumar)
 
 ---
 
